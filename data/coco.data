@@ -1,0 +1,4 @@
+classes=80
+train=/home/vsun/PythonWork/datasets/COCO/trainvalno5k.txt
+valid=/home/vsun/PythonWork/datasets/COCO/5k.txt
+names=data/coco.names
